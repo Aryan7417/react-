@@ -1,0 +1,9 @@
+body{
+  background-color: rgb(43, 6, 6);
+  color: white;
+}
+div button{
+  padding: 50px;
+  margin:20;
+  width:90px;
+}
